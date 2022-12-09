@@ -4,3 +4,5 @@ I still love Git
 
 It is so helpfully
 End of page 3
+Addendum to page 3
+Something new
